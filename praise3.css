@@ -58,6 +58,7 @@ input:hover{
     color: grey;
     padding: 8px;
     border-radius: 10px;
+    margin: 5px;
 }
 .submit:hover{
     background-color: grey;
