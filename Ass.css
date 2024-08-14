@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+    display: flex;
+    margin: auto;
+    height: 100vh;
+}
+header{
+    color: green;
+}
+.submit{
+    color:white;
+    background-color: green;
+    margin: 40px;
+    border-radius: 8px;
+    padding: 8px;
+    width: 60%;
+}
+.praise{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    height: 50vh;
+    width: 40%;
+}
+form{
+    padding: 20px;
+}
+input{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 10px;
+    width: 100%;
+    
+}
